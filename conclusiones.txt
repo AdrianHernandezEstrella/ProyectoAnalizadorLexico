@@ -1,0 +1,8 @@
+Conclusiones 
+es un módulo destinado a leer caracteres del archivo de entrada, donde se encuentra la 
+cadena a analizar, reconocer subcadenas que correspondan a símbolos del lenguaje y 
+retornar los tokens correspondientes y sus atributos.
+a lo largo de la materia obtuvimos materiales de suma importancia donde se nos explicaba sus
+funcionalidades y que librerias debiamos aplicar, uno de los archivos agregar fue el Jflex
+que al principio nos costo un poco debido a diferentes versiones de netbeans pero con la ayuda 
+de mis compañeros lo realizamos.
