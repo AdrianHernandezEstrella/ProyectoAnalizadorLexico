@@ -1,0 +1,6 @@
+Descripcion:
+Aplicaremos el uso correcto de librerias rsyntax TextArea y archivos jflex y jcup en el programa
+El analizador léxico es la primera fase de un compilador.
+Su principal función consiste en leer los caracteres de entrada y elaborar como salida una
+secuencia de componentes léxicos que utiliza el analizador sintáctico para hacer el análisis.
+el analizador léxico es la parte del compilador que lee el texto fuente
